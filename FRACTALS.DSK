@@ -1,0 +1,138 @@
+[Main Window]
+Create=1
+Visible=1
+State=2
+Left=0
+Top=0
+Width=1280
+Height=112
+MaxLeft=-4
+MaxTop=-4
+MaxWidth=1288
+MaxHeight=112
+ClientWidth=1280
+ClientHeight=84
+
+[PropertyInspector]
+Create=1
+Visible=1
+State=0
+Left=0
+Top=108
+Width=190
+Height=653
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=180
+ClientHeight=625
+TBDockHeight=609
+LRDockWidth=187
+Dockable=1
+SplitPos=84
+
+[Closed Files]
+File_0=SourceModule,'C:\WINDOWS\Personal\Unit1.pas',0,1,28,1,34,0,0
+File_1=SourceModule,'D:\My Work\My Programs\System or Config\CD Ejector\Unit1.pas',0,1,31,1,57,1,0
+File_2=SourceModule,'C:\Program Files\Borland\Delphi 3\BIN\MidnightUnit.pas',0,1,259,21,267,0,0
+File_3=SourceModule,'D:\My Work\My Programs\HTML Generators\CGI2\Unit1.pas',0,1,66,42,108,1,0
+File_4=SourceModule,'PackageEditModule',0,1,0,48,666,0,0
+File_5=SourceModule,'c:\program files\borland\delphi 3\new folder\cgi\cgi.pas',0,1,164,44,179,0,0
+File_6=SourceModule,'D:\My Work\My Programs\Graphics\WallpaperChanger\Unit1.pas',0,1,132,11,160,1,1
+File_7=SourceModule,'D:\My Work\My Programs\Graphics\WallpaperChanger\MidnightUnit.pas',0,1,1,38,191,0,0
+File_8=SourceModule,'C:\Program Files\Borland\Delphi 3\Demos\WEBSERV\Main.pas',0,1,57,29,12,0,0
+File_9=SourceModule,'D:\My Work\My Programs\System or Config\Startup\Unit1.pas',0,1,41,19,54,0,0
+
+[Modules]
+Module0=D:\My Stuff\My Programs\Graphics\Fractals2\fractal.pas
+Count=1
+EditWindowCount=1
+
+[D:\My Stuff\My Programs\Graphics\Fractals2\fractal.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[C:\Program Files\Borland\Delphi4\Projects\ProjectGroup1.bpg]
+FormState=0
+FormOnTop=0
+
+[D:\My Stuff\My Programs\Graphics\Fractals2\fractals.dpr]
+FormState=0
+FormOnTop=0
+
+[EditWindow0]
+CodeExplorer=CodeExplorer@EditWindow0
+MessageView=MessageView@EditWindow0
+Create=1
+Visible=1
+State=0
+Left=200
+Top=130
+Width=870
+Height=642
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=862
+ClientHeight=614
+LeftPanelSize=140
+LeftPanelClients=CodeExplorer@EditWindow0
+LeftPanelData=000004000000000000000000000000000000000000000000000100000000000000000C000000436F64654578706C6F726572FFFFFFFF
+RightPanelSize=0
+BottomPanelSize=52
+BottomPanelClients=MessageView@EditWindow0
+BottomPanelData=000004000000000000000000000000000000000000000000000100000000000000000B0000004D65737361676556696577FFFFFFFF
+ViewCount=1
+CurrentView=0
+View0=0
+
+[CodeExplorer@EditWindow0]
+Create=1
+Visible=1
+State=0
+Left=0
+Top=11
+Width=140
+Height=530
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=140
+ClientHeight=530
+TBDockHeight=305
+LRDockWidth=140
+Dockable=1
+
+[MessageView@EditWindow0]
+Create=1
+Visible=1
+State=0
+Left=11
+Top=0
+Width=851
+Height=52
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=851
+ClientHeight=52
+TBDockHeight=52
+LRDockWidth=443
+Dockable=1
+
+[View0]
+Module=D:\My Stuff\My Programs\Graphics\Fractals2\fractal.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[DockHosts]
+DockHostCount=0
+
+[Watches]
+Count=0
+
+[Breakpoints]
+Count=0
+
+[AddressBreakpoints]
+Count=0
+

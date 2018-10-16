@@ -1,0 +1,28 @@
+version 0.1 BETA:
+		algorithems created
+		GUI desisned	
+		basic zoom function
+
+version 0.2 BETA:
+		menus added
+		GUI redesigned
+		zoom factors x2,x4,x8,xX
+		error ckecking
+		fixed Xor bug with zoom (all fractal went Xor)
+
+version 0.3 BETA:
+		fixed render of multiple fractals
+		no multi zoom without render
+		added CosTim fractal
+		menus removed
+		progress bar
+		maxiter select
+
+version 0.4 BETA:
+		GUI redesigned
+		added colors 
+		added 256 & 16 color renders
+
+version 0.5 BETA:
+		image and location save/load
+		window sizes
